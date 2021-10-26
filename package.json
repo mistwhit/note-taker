@@ -1,0 +1,23 @@
+{
+  "name": "10-note-taker",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mistwhit/note-taker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mistwhit/note-taker/issues"
+  },
+  "homepage": "https://github.com/mistwhit/note-taker#readme",
+  "dependencies": {
+    "node": "^17.0.1"
+  }
+}
