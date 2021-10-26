@@ -7,7 +7,7 @@ const PORT = process.env.port || 3001;
 
 const app = express();
 
-// Import custom middleware, "cLog"
+// Import custom middleware, "clog"
 app.use(clog);
 
 // Middleware for parsing JSON and urlencoded form data
