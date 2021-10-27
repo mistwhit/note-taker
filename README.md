@@ -2,7 +2,7 @@
 # Express.js Note Taker
 
 ## Description
-- My motivation for this project was to create a simplenote-taking application that allows a user to write, save, and delete notes.
+- My motivation for this project was to create a simple note-taking application that allows a user to write, save, and delete notes.
 - This was accomplished through using an Express.js backend that saves and retireves note data from a JSON file. 
 
 ## Technologies Used
