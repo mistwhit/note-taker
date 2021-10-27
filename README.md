@@ -2,6 +2,8 @@
 # Express.js Note Taker
 
 ## Description
+- My motivation for this project was to create a simplenote-taking application that allows a user to write, save, and delete notes.
+- This was accomplished through using an Express.js backend that saves and retireves note data from a JSON file. 
 
 ## Technologies Used
 - HTML
@@ -11,8 +13,8 @@
 - Express.js
 
 ## Screenshots
-![Screenshot of Note Taker](x.png)
-![Screenshot of Note Taker](x.png)
+![Screenshot of Note Taker](./public/assets/images/notetaker1.png)
+![Screenshot of Note Taker](./public/assets/images/notetaker2.png)
 
 ## Link
 https://note-taker-mw.herokuapp.com/
